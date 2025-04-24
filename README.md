@@ -1,16 +1,5 @@
 # 👾 Welcome to raiton-boo's GitHub 👾
 
-```
-> Booting raiton-boo profile...
-> ██████╗ ██╗      █████╗ ██╗████████╗ ██████╗  ██████╗  ██████╗ 
-> ██╔══██╗██║     ██╔══██╗██║╚══██╔══╝██╔═══██╗██╔════╝ ██╔═══██╗
-> ██████╔╝██║     ███████║██║   ██║   ██║   ██║██║  ███╗██║   ██║
-> ██╔═══╝ ██║     ██╔══██║██║   ██║   ██║   ██║██║   ██║██║   ██║
-> ██║     ███████╗██║  ██║██║   ██║   ╚██████╔╝╚██████╔╝╚██████╔╝
-> ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝ 
-> Status: ACTIVE 🟢
-```
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+love+programming+and+motorcycles!;&center=true&width=500&color=00FF00&vCenter=true&size=22">
 </p>
@@ -89,9 +78,11 @@ Python を中心に開発していて、現在は LINE ボットとポートフ�
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber_Theme-Active-00ff00?style=flat-square&logo=nintendo-gamecube&logoColor=white">
   <img src="https://img.shields.io/badge/MacBook_M2-Midnight_Blue-00ff00?style=flat-square&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Python-Main-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Learning-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Motorcycle-ST250-MidnightBlue?style=flat-square&logo=suzuki&logoColor=white">
 </p>
