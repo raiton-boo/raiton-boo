@@ -26,7 +26,6 @@
 
 ---
 
-<!--
 ## 📈 Contributions Visualized
 
 ### 🐍 Snake Animation
@@ -43,7 +42,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/github-metrics.svg">
 </p>
--->
 
 ## 🌐 Connect
 - 🧠 Discord: `らいと#XXXX`
