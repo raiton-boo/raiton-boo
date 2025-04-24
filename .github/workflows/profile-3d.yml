@@ -1,0 +1,33 @@
+# 🧱 3D Contribution Graph Workflow
+# 毎日3D貢献グラフを生成し、mainブランチにSVGとして保存する
+
+name: 🧱 Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # 毎日02:00（UTC）に実行
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ソースコードをチェックアウト
+      - name: Checkout the code
+        uses: actions/checkout@v3
+
+      # 3D Contribution グラフを生成
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+
+      # 生成したファイルをコミット＆プッシュ
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -f profile-3d-contrib/profile-night-green.svg
+          git commit -m "✨ Update 3D contribution graph"
+          git push
