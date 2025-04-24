@@ -30,5 +30,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add -f profile-3d-contrib/profile-night-green.svg
-          git commit -m "✨ Update 3D contribution graph"
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "✨ Update 3D contribution graph"
           git push
