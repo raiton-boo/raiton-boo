@@ -26,13 +26,13 @@
 
 ---
 
-### 🧱 3D Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/profile-3d-contrib/profile-night-green.svg">
-</p>
-
 <!--
 ## 📈 Contributions Visualized
+
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg">
+</p>
 
 ### 🧱 3D Contributions
 <p align="center">
