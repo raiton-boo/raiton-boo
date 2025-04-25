@@ -18,14 +18,17 @@ jobs:
       - name: Checkout the code
         uses: actions/checkout@v3
 
+      - name: Prepare output directory
+        run: mkdir -p dist
+
       # SnakeアニメーションSVGを生成する
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: raiton-boo  # 対象のGitHubユーザー名
+          github_user_name: raiton-boo
           outputs: |
-            ./dist/github-contribution-grid-snake.svg           # 通常版
-            ./dist/github-contribution-grid-snake-dark.svg      # ダークモード版
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg   # ダークモード版
         env:
           GH_PAT: ${{ secrets.SNAKE_TOKEN }}  # アニメ生成に必要な認証トークン
 
