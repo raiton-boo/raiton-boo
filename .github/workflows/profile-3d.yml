@@ -16,7 +16,12 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: raiton-boo
+
+      - name: Check if SVG exists
+        run: |
+          ls -la
+          file profile-3d.svg || echo "profile-3d.svg not found"
 
       - name: Move output to proper directory
         run: |
