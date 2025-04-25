@@ -1,7 +1,7 @@
 # 🐍 Snake Animation GitHub Actions Workflow
 # 毎日GitHubの貢献グラフからSnakeアニメーションを自動生成してoutputブランチにPushする
 
-name: 🐍 Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
