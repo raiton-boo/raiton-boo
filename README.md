@@ -7,9 +7,9 @@
 
 <!-- GitHubの貢献グラフをもとに生成されたSnakeアニメーション。ライト/ダークモードで自動切り替え -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-snake-light.svg" />
+  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-snake-light.svg" />
 </picture>
 
 ---
