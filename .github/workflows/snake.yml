@@ -30,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg   # ダークモード版
         env:
-          GH_PAT: ${{ secrets.SNAKE_TOKEN }}  # アニメ生成に必要な認証トークン
+          GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}  # アニメ生成に必要な認証トークン
 
       # 生成したSVGをoutputブランチにPushして公開する
       - name: Push snake svg to output branch
@@ -39,4 +39,4 @@ jobs:
           target_branch: output      # 出力先のブランチ名
           build_dir: dist            # SVGが保存されているフォルダ
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}  # Push用のトークン
+          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}  # Push用のトークン
