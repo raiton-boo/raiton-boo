@@ -1,7 +1,7 @@
 # 🐍 Snake Animation GitHub Actions Workflow
 # 毎日GitHubの貢献グラフからSnakeアニメーションを自動生成してoutputブランチにPushする
 
-name: Generate Snake Animation
+name: 🐍Generate Snake Animation
 
 on:
   schedule:
@@ -11,7 +11,7 @@ on:
 jobs:
   build:
     name: Generate Snake Animation
-    runs-on: ubuntu-latest  # GitHubが提供するUbuntuの仮想環境で実行
+    runs-on: ubuntu-latest
 
     steps:
       # リポジトリのソースコードをチェックアウト（取得）する
