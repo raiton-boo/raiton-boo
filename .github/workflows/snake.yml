@@ -22,13 +22,21 @@ jobs:
         run: mkdir -p dist
 
       # SnakeアニメーションSVGを生成する
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (light)
         uses: Platane/snk@v3
         with:
           github_user_name: raiton-boo
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg   # ダークモード版
+          outputs: dist/github-contribution-grid-snake.svg
+          theme: github-light
+        env:
+          GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
+
+      - name: Generate Snake SVG (dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: raiton-boo
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          theme: github-dark
         env:
           GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}  # アニメ生成に必要な認証トークン
 

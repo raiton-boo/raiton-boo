@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+love+programming+and+motorcycles!;&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" alt="GitHub contributions snake animation">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
