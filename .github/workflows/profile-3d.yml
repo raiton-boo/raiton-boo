@@ -10,31 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate 3D profile
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
-          USERNAME: raiton-boo
-
-      - name: Check if SVG exists
-        run: |
-          ls -la
-          if [ ! -f profile-3d.svg ]; then
-            echo "❌ profile-3d.svg not found"
-            exit 1
-          fi
-
-      - name: Move output to proper directory
-        run: |
-          mkdir -p profile-3d-contrib
-          mv -f profile-3d.svg profile-3d-contrib/profile-night-green.svg
-
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push
+          if git commit -m "generated"; then
+            git push
+          fi
