@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: raiton-boo
           outputs: dist/github-contribution-grid-snake.svg
-          args: --palette github-light
+          args: --palette=github-light
         env:
           GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
         with:
           github_user_name: raiton-boo
           outputs: dist/github-contribution-grid-snake-dark.svg
-          args: --palette github-dark
+          args: --palette=github-dark
         env:
           GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
 
