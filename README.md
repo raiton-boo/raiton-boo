@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" alt="GitHub contributions snake animation">
+</p>
+
 # 🔦 Welcome to raiton-boo's GitHub 🔦
 
 <p align="center">
@@ -81,18 +85,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut-vertical&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
 </p>
-
----
-
-## Contributions Visualized
-
-### 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" alt="GitHub contributions snake animation">
-</p>
-
-### 🎨 3D Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contributions">
