@@ -1,9 +1,11 @@
 # 🔦 Welcome to raiton-boo's GitHub 🔦
 
+<!-- プロフィール上部のウェルカムメッセージ（タイピングアニメーション） -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+love+programming+and+motorcycles!;&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
 </p>
 
+<!-- GitHubの貢献グラフをもとに生成されたSnakeアニメーション。ライト/ダークモードで自動切り替え -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" />
@@ -12,6 +14,7 @@
 
 ---
 
+<!-- 自己紹介：名前と挨拶。訪問者への一言 -->
 ## 🧠 自己紹介
 
 こんにちは、らいとです！
@@ -24,72 +27,68 @@
 
 ### 💻 スキル
 
-<details>
-<summary>Python</summary>
-
+<details id="python">
+<summary><strong>🐍 Python</strong></summary>
+<br>
 <ul>
-  <li><strong>使用中</strong></li>
-  <li>📚 ライブラリ・フレームワーク
-    <ul>
-      <li>🗨️ line-bot-sdk</li>
-      <li>🤖 discord.py</li>
-      <li>🌐 Flask / FastAPI</li>
-    </ul>
-  </li>
+  <li>line-bot-sdk</li>
+  <li>discord.py</li>
+  <li>Flask（学習中）</li>
+  <li>FastAPI（学習中）</li>
 </ul>
+</details>
+
+<details id="go">
+<summary><strong>🐹 Go（学習中）</strong></summary>
+<br>
 
 </details>
 
-<details>
-<summary>JavaScript / TypeScript</summary>
-
+<details id="javascript-typescript">
+<summary><strong>⚙️ JavaScript / TypeScript</strong></summary>
+<br>
 <ul>
-  <li><strong>少し使用経験あり</strong></li>
-  <li>📚 ライブラリ・フレームワーク
-    <ul>
-      <li>⚙️ Node.js</li>
-      <li>🚀 Express</li>
-    </ul>
-  </li>
+  <li>react（学習中）</li>
 </ul>
-
 </details>
 
-<details>
-<summary>HTML / CSS</summary>
-
+<details id="html-css">
+<summary><strong>🎨 HTML / CSS</strong></summary>
+<br>
 <ul>
-  <li>🧩 基礎的なWeb制作が可能</li>
+  <li>シンプルな簡単なものしか作れない</li>
 </ul>
-
 </details>
 
-<details>
-<summary>学習中の技術</summary>
-
+<details id="tools-env">
+<summary><strong>🛠️ ツール・環境</strong></summary>
+<br>
 <ul>
-  <li>📘 Go / React</li>
-  <li>🐳 Docker</li>
-  <li>☁️ AWS</li>
-  <li>🗃️ DB（MySQL, PostgreSQL など）</li>
+  <li>Docker（学習中）</li>
+  <li>Heroic</li>
+  <li>Git / GitHub</li>
+  <li>AWS（学習中）</li>
+  <li>MySQL / PostgreSQL（学習中）</li>
 </ul>
-
 </details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats">
+<!-- GitHubの統計データを表示（スター数、コミット数など） -->
+<p>
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats">
 </p>
 
+<!-- よく使う言語を円グラフ（ドーナツ）で表示。最大10言語 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut-vertical&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
 </p>
 
+<!-- GitHubの貢献状況を3Dグラフで表示 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contributions">
+  <img style="width: 100%;" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contributions">
 </p>
 
 <!--
@@ -101,17 +100,16 @@
 
 ---
 
+<!-- ソーシャルリンク -->
 ## 🌐 Connect
 
-- 🧠 Discord: `らいと#2918`  
-- 📸 Instagram: **まってね**
+- 🧠 **Discord:** らいと#2918
+- 📸 **Instagram:** [rn.__.ton](https://www.instagram.com/rn.__.ton)
 
-<!--
-- 📸 Instagram: [rn.__.ton](https://www.instagram.com/rn.__.ton)
--->
 
 ---
 
+<!-- バッジ -->
 <p align="center">
   <img src="https://img.shields.io/badge/MacBook_M2-Midnight_Blue-00ff00?style=flat-square&logo=apple&logoColor=white" alt="MacBook M2 badge">
 </p>
