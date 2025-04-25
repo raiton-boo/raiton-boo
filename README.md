@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" alt="GitHub contributions snake animation">
-</p>
-
 # 🔦 Welcome to raiton-boo's GitHub 🔦
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+love+programming+and+motorcycles!;&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-contribution-grid-snake.svg" alt="GitHub contributions snake animation">
 </p>
 
 ---
