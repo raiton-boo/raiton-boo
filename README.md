@@ -44,7 +44,7 @@ Python を中心に開発していて、現在は LINE ボットとポートフ�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=compact&theme=tokyonight&hide_border=true&text_color=00ff00">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut-vertical&theme=tokyonight&hide_border=true&text_color=00ff00">
 </p>
 
 ---
