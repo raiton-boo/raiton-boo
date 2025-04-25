@@ -21,7 +21,10 @@ jobs:
       - name: Check if SVG exists
         run: |
           ls -la
-          file profile-3d.svg || echo "profile-3d.svg not found"
+          if [ ! -f profile-3d.svg ]; then
+            echo "❌ profile-3d.svg not found"
+            exit 1
+          fi
 
       - name: Move output to proper directory
         run: |
