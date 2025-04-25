@@ -26,8 +26,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: raiton-boo
-          outputs: dist/github-contribution-grid-snake.svg
-          args: --palette=github-light
+          outputs: dist/github-snake-light.svg?palette=github-light
         env:
           GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
 
@@ -35,8 +34,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: raiton-boo
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          args: --palette=github-dark
+          outputs: dist/github-snake-dark.svg?palette=github-dark
         env:
           GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
 
