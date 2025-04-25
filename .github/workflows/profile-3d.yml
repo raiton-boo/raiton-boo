@@ -1,4 +1,3 @@
-
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -12,10 +11,18 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+
+      - name: Generate 3D profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Move output to proper directory
+        run: |
+          mkdir -p profile-3d-contrib
+          mv -f profile-3d.svg profile-3d-contrib/profile-night-green.svg
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
