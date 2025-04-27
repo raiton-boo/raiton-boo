@@ -83,7 +83,7 @@
 
 <!-- よく使う言語を円グラフ（ドーナツ）で表示。最大10言語 -->
 <p align="center">
-  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
 </p>
 
 <!-- GitHubの貢献状況を3Dグラフで表示 -->
