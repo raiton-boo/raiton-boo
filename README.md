@@ -15,15 +15,16 @@
 ---
 
 <!-- 自己紹介：名前と挨拶。訪問者への一言 -->
+
 ## 🧠 自己紹介
 
 こんにちは、らいとです！
-よかったら僕のGitHub、少しだけ見てってください！
+よかったら僕の GitHub、少しだけ見てってください！
 
 ### 🎯 趣味
 
 - 🖥️ プログラミング
-- 🏍️ バイク（ST250に乗ってます）
+- 🏍️ バイク（ST250 に乗ってます）
 
 ### 💻 スキル
 
@@ -101,11 +102,11 @@
 ---
 
 <!-- ソーシャルリンク -->
+
 ## 🌐 Connect
 
 - 🧠 **Discord:** らいと#2918
-- 📸 **Instagram:** [rn.__.ton](https://www.instagram.com/rn.__.ton)
-
+- 📸 **Instagram:** [rn.\_\_.ton](https://www.instagram.com/rn.__.ton)
 
 ---
 
@@ -116,4 +117,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Motorcycle-ST250-MidnightBlue?style=flat-square&logo=suzuki&logoColor=white" alt="Motorcycle ST250 badge">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raiton-boo&color=green" alt="Profile views">
 </p>

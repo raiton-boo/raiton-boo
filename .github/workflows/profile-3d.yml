@@ -7,7 +7,7 @@ name: 🎨 GitHub-Profile-3D-Contrib
 on:
   schedule:
     # 毎日0:00 UTC（09:00 JST）に自動実行される
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch: # 手動実行を可能にする
 
 # リポジトリへの変更をPushするための権限を設定

@@ -5,8 +5,8 @@ name: 🐍Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 毎日深夜（UTC）に自動実行される
-  workflow_dispatch:      # 必要に応じて手動実行も可能
+    - cron: '0 0 * * *' # 毎日深夜（UTC）に自動実行される
+  workflow_dispatch: # 必要に応じて手動実行も可能
 
 jobs:
   build:
@@ -42,7 +42,7 @@ jobs:
       - name: Push snake svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output      # 出力先のブランチ名
-          build_dir: dist            # SVGが保存されているフォルダ
+          target_branch: output # 出力先のブランチ名
+          build_dir: dist # SVGが保存されているフォルダ
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}  # Push用のトークン
+          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }} # Push用のトークン
