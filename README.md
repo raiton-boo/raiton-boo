@@ -8,6 +8,10 @@
 <!-- プロフィール閲覧数カウンター -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raiton-boo&color=green&style=flat-square" alt="Profile views">
+  <!--
+  <img src="https://img.shields.io/github/followers/raiton-boo?label=Followers&style=flat-square&color=blue" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/raiton-boo?label=Stars&style=flat-square&color=yellow" alt="GitHub stars">
+  -->
 </p>
 
 <!-- GitHubの貢献グラフをもとに生成されたSnakeアニメーション。ライト/ダークモードで自動切り替え -->
@@ -21,8 +25,8 @@
 
 ## 🧠 About Me
 
-こんにちは、らいとです！  
-よかったら僕の GitHub、少しだけ見てってください！
+こんにちは、らいとです！
+アイデアに技術力が追いついてないです。
 
 ### 🎯 Interests & Hobbies
 
@@ -84,10 +88,8 @@
 
 ## 📊 GitHub Statistics
 
-<!-- GitHubの統計データを表示（スター数、コミット数など） -->
-
-
-<div>
+<!-- GitHub Stats Cards -->
+<div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
 </div>
@@ -118,3 +120,12 @@
 ![Motorcycle ST250](https://img.shields.io/badge/Motorcycle-ST250-1E90FF?style=for-the-badge&logo=suzuki&logoColor=white)
 
 </div>
+
+---
+
+## 🔥 Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raiton&theme=tokyonight&hide_border=true&text_color=00ff00" alt="WakaTime stats">
+</div>
+
