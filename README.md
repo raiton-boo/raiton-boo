@@ -85,24 +85,10 @@
 ## 📊 GitHub Statistics
 
 <!-- GitHubの統計データを表示（スター数、コミット数など） -->
-<!-- PC表示用（横並び） -->
 <div align="center">
-  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00&card_width=400" alt="GitHub stats">
-  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00&card_width=400" alt="Top languages">
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00&card_width=400" alt="GitHub stats">
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00&card_width=400" alt="Top languages">
 </div>
-
-<!-- モバイル表示用（縦並び）- 小画面でより見やすく -->
-<details>
-<summary><strong>📱 モバイル表示（クリックして開く）</strong></summary>
-<br>
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats">
-</div>
-<br>
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
-</div>
-</details>
 
 <!-- GitHubの貢献状況を3Dグラフで表示 -->
 <div align="center">
