@@ -1,12 +1,17 @@
 # 🐍 Snake Animation GitHub Actions Workflow
 # 毎日GitHubの貢献グラフからSnakeアニメーションを自動生成してoutputブランチにPushする
 
-name: 🐍Generate Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 毎日深夜（UTC）に自動実行される
+    # 毎日0:00 UTC（09:00 JST）に自動実行される
+    - cron: '0 0 * * *'
   workflow_dispatch: # 必要に応じて手動実行も可能
+
+# リポジトリへの変更をPushするための権限を設定
+permissions:
+  contents: write # リポジトリの内容に書き込み権限（変更をPushするため）
 
 jobs:
   build:
@@ -16,31 +21,33 @@ jobs:
     steps:
       # リポジトリのソースコードをチェックアウト（取得）する
       - name: Checkout the code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # 出力ディレクトリを準備する
       - name: Prepare output directory
         run: mkdir -p dist
 
-      # SnakeアニメーションSVGを生成する
+      # SnakeアニメーションSVG（ライトテーマ）を生成する
       - name: Generate Snake SVG (light)
         uses: Platane/snk@v3
         with:
           github_user_name: raiton-boo
           outputs: dist/github-snake-light.svg?palette=github-light
         env:
-          GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
 
+      # SnakeアニメーションSVG（ダークテーマ）を生成する
       - name: Generate Snake SVG (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: raiton-boo
           outputs: dist/github-snake-dark.svg?palette=github-dark
         env:
-          GH_PAT: ${{ secrets.GIT_HUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
 
       # 生成したSVGをoutputブランチにPushして公開する
       - name: Push snake svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output # 出力先のブランチ名
           build_dir: dist # SVGが保存されているフォルダ

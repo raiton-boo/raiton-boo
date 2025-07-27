@@ -1,9 +1,10 @@
-# 🎨　GitHub-Profile-3D-Contrib GitHub Actions Workflow
+# 🎨 GitHub-Profile-3D-Contrib GitHub Actions Workflow
 # このワークフローは、GitHubプロフィールの3D貢献グラフを生成し、リポジトリに自動的にPushします。
 # 毎日0:00 UTC（09:00 JST）にスケジュール実行され、手動実行も可能です。
+
 name: 🎨 GitHub-Profile-3D-Contrib
 
-# ワークフローをスケジュールで毎日18:00 UTC（03:00 JST）に実行し、手動でもトリガーできるように設定
+# ワークフローをスケジュールで毎日0:00 UTC（09:00 JST）に実行し、手動でもトリガーできるように設定
 on:
   schedule:
     # 毎日0:00 UTC（09:00 JST）に自動実行される
@@ -17,14 +18,17 @@ permissions:
 jobs:
   build:
     # ジョブの実行環境を最新のUbuntuに設定
-    runs-on: ubuntu-latest # 最新のUbuntu環境で実行
+    runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       # リポジトリのソースコードをチェックアウト（取得）する
-      - uses: actions/checkout@v4
+      - name: Checkout the code
+        uses: actions/checkout@v4
 
       # GitHubプロフィールの3D貢献グラフを生成するためのアクションを使用
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }} # 認証用のトークン
           USERNAME: ${{ github.repository_owner }} # プロフィール用のGitHubユーザー名
