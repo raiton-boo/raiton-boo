@@ -121,11 +121,13 @@
 
 </div>
 
----
-
+<!--
 ## 🔥 Coding Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raiton&theme=tokyonight&hide_border=true&text_color=00ff00" alt="WakaTime stats">
 </div>
-
+-->
+<!--
+https://github.com/avinal/Profile-Readme-WakaTime
+を参考 -->
