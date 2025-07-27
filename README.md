@@ -85,9 +85,11 @@
 ## 📊 GitHub Statistics
 
 <!-- GitHubの統計データを表示（スター数、コミット数など） -->
-<div align="center">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00&card_width=400" alt="GitHub stats">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00&card_width=400" alt="Top languages">
+
+
+<div>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
 </div>
 
 <!-- GitHubの貢献状況を3Dグラフで表示 -->
