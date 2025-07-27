@@ -100,7 +100,7 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  
+
 [![Discord](https://img.shields.io/badge/Discord-らいと%232918-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Instagram](https://img.shields.io/badge/Instagram-rn.__.ton-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rn.__.ton)
 
