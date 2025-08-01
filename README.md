@@ -106,7 +106,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-らいと%232918-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6qYHH9HY)
-[![Instagram](https://img.shields.io/badge/Instagram-rn.__.ton-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rn.__.photo)
+[![Instagram](https://img.shields.io/badge/Instagram-rn.__.photo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rn.__.photo)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-![MacBook M2](https://img.shields.io/badge/MacBook_M2-Midnight_Blue-00ff00?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook M2](https://img.shields.io/badge/MacBook_M2-Midnight_Blue-191970?style=for-the-badge&logo=apple&logoColor=white)
 ![Motorcycle ST250](https://img.shields.io/badge/Motorcycle-ST250-1E90FF?style=for-the-badge&logo=suzuki&logoColor=white)
 
 </div>
