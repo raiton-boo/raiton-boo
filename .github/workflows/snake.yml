@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   build:
+    name: generate-github-contribution-snake
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
