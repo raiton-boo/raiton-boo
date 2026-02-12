@@ -30,7 +30,7 @@ jobs:
       - name: Move to image/summary
         run: |
           mkdir -p image/summary
-          cp -r profile-summary-card-output/tokyonight/* image/summary/
+          cp -r profile-summary-card-output/zenburn/* image/summary/
 
       - name: Commit & Push
         run: |
