@@ -41,95 +41,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-2. 💪 Opened PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-3. 🎉 Merged PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-4. 💪 Opened PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-5. 🎉 Merged PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-6. 💪 Opened PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 <!--END_SECTION:activity-->
 
 ---
 
-<<<<<<< HEAD
-<div align="left">
-  <h2>⌛ Weekly Coding Stats</h2>
-  <details>
-    <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
-    <br />
-    <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-🌆 Daytime                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-🌃 Evening                234 commits         ████████░░░░░░░░░░░░░░░░░   30.91 % 
-🌙 Night                  410 commits         ██████████████░░░░░░░░░░░   54.16 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Thursday                 117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Saturday                 215 commits         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
-
-
- Last Updated on 12/02/2026 12:52:56 UTC
-<!--END_SECTION:waka-->
-  </details>
-</div>
-||||||| parent of 6d1c695 (feat: 全体の改修)
-<div align="left">
-  <h2>⌛ Weekly Coding Stats</h2>
-  <details>
-    <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
-    <br />
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-  </details>
-</div>
-=======
 ## ⌛ Weekly Coding Stats
 
 <details>
@@ -138,7 +53,6 @@ Shell                    1 repo              ██░░░░░░░░░�
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
->>>>>>> 6d1c695 (feat: 全体の改修)
 
 ---
 
