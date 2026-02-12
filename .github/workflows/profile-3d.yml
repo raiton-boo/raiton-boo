@@ -1,44 +1,40 @@
-# 🎨 GitHub-Profile-3D-Contrib GitHub Actions Workflow
-# このワークフローは、GitHubプロフィールの3D貢献グラフを生成し、リポジトリに自動的にPushします。
-# 毎日0:00 UTC（09:00 JST）にスケジュール実行され、手動実行も可能です。
+name: Generate 3D Contribution Graph
 
-name: 🎨 GitHub-Profile-3D-Contrib
-
-# ワークフローをスケジュールで毎日0:00 UTC（09:00 JST）に実行し、手動でもトリガーできるように設定
 on:
   schedule:
-    # 毎日0:00 UTC（09:00 JST）に自動実行される
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 手動実行を可能にする
+    # 毎日 15:00 UTC (日本時間 00:00) に自動実行
+    - cron: '0 15 * * *'
+  workflow_dispatch:
 
-# リポジトリへの変更をPushするための権限を設定
 permissions:
-  contents: write # リポジトリの内容に書き込み権限（変更をPushするため）
+  contents: write
 
 jobs:
   build:
-    # ジョブの実行環境を最新のUbuntuに設定
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
 
     steps:
-      # リポジトリのソースコードをチェックアウト（取得）する
       - name: Checkout the code
         uses: actions/checkout@v4
 
-      # GitHubプロフィールの3D貢献グラフを生成するためのアクションを使用
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }} # 認証用のトークン
-          USERNAME: ${{ github.repository_owner }} # プロフィール用のGitHubユーザー名
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      # 生成されたSVGファイルをリポジトリにコミットしてPushする
+      - name: Move files to target directory
+        run: |
+          mkdir -p image/3d-contrib
+          cp -r profile-3d-contrib/* image/3d-contrib/
+
       - name: Commit & Push
         run: |
-          git config user.name github-actions # コミット用のユーザー名を設定
-          git config user.email github-actions@github.com # コミット用のユーザーメールを設定
-          git add -A . # すべての変更をステージング
-          if git commit -m "generated"; then # 変更があればコミット
-            git push # コミットをリポジトリにPush
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add image/3d-contrib/*
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update 3d contribution graph"
+            git push origin main
           fi
