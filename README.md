@@ -41,12 +41,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-2. 💪 Opened PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-3. 🎉 Merged PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-4. 💪 Opened PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-5. 🎉 Merged PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-6. 💪 Opened PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
+<br />
+<br />
 <!--END_SECTION:activity-->
 
 ---
@@ -57,67 +53,8 @@
   <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
   <br />
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2021%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.96%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-🌆 Daytime                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌃 Evening                237 commits         ████████░░░░░░░░░░░░░░░░░   31.18 % 
-🌙 Night                  410 commits         █████████████░░░░░░░░░░░░   53.95 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Saturday                 215 commits         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
-
-
- Last Updated on 12/02/2026 13:12:28 UTC
+  <br />
+  <br />
 <!--END_SECTION:waka-->
 </details>
 
