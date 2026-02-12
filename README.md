@@ -39,7 +39,11 @@
 
 ---
 
-## GitHub Statistics
+## ⚡ Recent Activity
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/0-profile-details.svg" alt="Profile details" />
