@@ -1,0 +1,43 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # 日本時間 00:00 (UTC 15:00)
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          AUTO_PUSH: false
+
+      - name: Move to image/summary
+        run: |
+          mkdir -p image/summary
+          cp -r profile-summary-card-output/tokyonight/* image/summary/
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add image/summary/*
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile summary cards"
+            git push origin main
+          fi
