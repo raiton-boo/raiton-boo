@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Raiton!</h1>
+<h1 align="left">👋 Hi, I'm Raiton!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+my+profile;Code+and+Build.;Stay+Focused&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
@@ -31,7 +31,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>🔦 About Me</h2>
   <p>
     こんにちは、らいとです！<br>
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <h2>⚡ Recent Activity</h2>
+  <h2 align="left">⚡ Recent Activity</h2>
   <br />
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-  <h2>⌛ Weekly Coding Stats</h2>
+  <h2 align="left">⌛ Weekly Coding Stats</h2>
   <details>
     <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
     <br />
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-  <h2>📊 GitHub Statistics</h2>
+  <h2 align="left">📊 GitHub Statistics</h2>
 
   <img width="100%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/0-profile-details.svg" alt="Profile details" />
   <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/1-repos-per-language.svg" alt="Repositories per language" />
