@@ -56,6 +56,79 @@
 ## ⌛ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2012%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 149 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+🌆 Daytime                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+🌃 Evening                230 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌙 Night                  410 commits         ██████████████░░░░░░░░░░░   54.45 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Thursday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 215 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/02/2026 11:45:09 UTC
 <!--END_SECTION:waka-->
 
 ---
