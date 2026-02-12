@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Raiton!</h1>
+# 👋 Hi! I'm Raiton
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+my+profile;Code+and+Build.;Stay+Focused&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
@@ -31,31 +31,28 @@
 
 ---
 
-<div align="left">
-  <h2>🔦 About Me</h2>
-  <p>
-    こんにちは、らいとです！<br>
-    アイデアに技術力が追いついてないですが、主に <b>TypeScript</b> や <b>Python</b> を使って遊んでます。
-  </p>
-</div>
+## 🔦 About Me
+
+こんにちは、らいとです！<br>
+アイデアに技術力が追いついてないですが、主に <b>TypeScript</b> や <b>Python</b> を使って遊んでます。
 
 ---
 
-<div align="left">
-  <h2>⚡ Recent Activity</h2>
-  <br />
-  <!--START_SECTION:activity-->
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 2. 💪 Opened PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 3. 🎉 Merged PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 4. 💪 Opened PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 5. 🎉 Merged PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 6. 💪 Opened PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
-  <!--END_SECTION:activity-->
-</div>
+<!--END_SECTION:activity-->
 
 ---
 
+<<<<<<< HEAD
 <div align="left">
   <h2>⌛ Weekly Coding Stats</h2>
   <details>
@@ -122,13 +119,32 @@ Shell                    1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
   </details>
 </div>
+||||||| parent of 6d1c695 (feat: 全体の改修)
+<div align="left">
+  <h2>⌛ Weekly Coding Stats</h2>
+  <details>
+    <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
+    <br />
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </details>
+</div>
+=======
+## ⌛ Weekly Coding Stats
+
+<details>
+  <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
+  <br />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+>>>>>>> 6d1c695 (feat: 全体の改修)
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
-
-  <h2 align="left">📊 GitHub Statistics</h2>
-
   <img width="100%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/0-profile-details.svg" alt="Profile details" />
   <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/1-repos-per-language.svg" alt="Repositories per language" />
   <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/2-most-commit-language.svg" alt="Most commit language" />
