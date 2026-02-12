@@ -42,6 +42,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 2. 💪 Opened PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 3. 🎉 Merged PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
@@ -49,6 +50,10 @@
 5. 🎉 Merged PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 6. 💪 Opened PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 <!--END_SECTION:activity-->
+
+---
+
+## ⌛ Weekly Coding Stats
 
 ---
 
