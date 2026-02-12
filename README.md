@@ -1,7 +1,7 @@
 # 👋 Hi! I'm raito🔦
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+my+profile;Code and Build.;Stay Focused.;&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+my+profile;Code+and+Build.;Stay+Focused&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
 </p>
 
 <p align="center">
