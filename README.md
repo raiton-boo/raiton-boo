@@ -41,8 +41,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-<br />
-<br />
+1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
+2. 💪 Opened PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 <!--END_SECTION:activity-->
 
 ---
