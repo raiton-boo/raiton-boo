@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Raiton
+# :wave: Hi! I'm Raiton
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+my+profile;Code+and+Build.;Stay+Focused&center=true&width=500&color=00FF00&vCenter=true&size=22" alt="Welcome typing animation">
@@ -31,14 +31,14 @@
 
 ---
 
-## 🔦 About Me
+## :flashlight: About Me
 
 こんにちは、らいとです！<br>
 アイデアに技術力が追いついてないですが、主に <b>TypeScript</b> や <b>Python</b> を使って遊んでます。
 
 ---
 
-## ⚡ Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -46,79 +46,19 @@
 
 ---
 
-## ⌛ Weekly Coding Stats
+## :hourglass: Weekly Coding Stats
 
 <details>
   <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
   <br />
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.96%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-🌆 Daytime                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-🌃 Evening                239 commits         ████████░░░░░░░░░░░░░░░░░   31.36 % 
-🌙 Night                  410 commits         █████████████░░░░░░░░░░░░   53.81 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Thursday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Saturday                 215 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
-
-
- Last Updated on 12/02/2026 13:18:29 UTC
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
 
 ---
 
-## 📊 GitHub Statistics
+## :bar_chart: GitHub Statistics
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/0-profile-details.svg" alt="Profile details" />
