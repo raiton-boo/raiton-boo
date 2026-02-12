@@ -25,7 +25,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
-          COMMIT_MSG: '📝 Committed to'
-          ISSUE_MSG: '❗️ Opened issue in'
-          PR_MSG: '🎁 Opened PR in'
-          FOLLOW_MSG: '🏃 Started following'
+          COMMIT_MSG: "chore: 📝 update activity log"
