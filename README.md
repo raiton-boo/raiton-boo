@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://zenn.dev/raiton"><img height="20" src="https://badgen.org/img/zenn/raiton/likes?style=plastic" alt="Zenn Likes" /></a>
-  <a href="https://zenn.dev/raiton"><img height="20" src="https://badgen.org/img/zenn/raiton/followers?style=plastic" alt="Zenn Followers" /></a>
-  <a href="https://zenn.dev/raiton"><img height="20" src="https://badgen.org/img/zenn/raiton/articles?style=plastic" alt="Zenn Articles" /></a>
+  <a href="https://zenn.dev/raiton"><img src="https://badgen.org/img/zenn/raiton/likes?style=plastic" alt="Zenn Likes" /></a>
+  <a href="https://zenn.dev/raiton"><img src="https://badgen.org/img/zenn/raiton/followers?style=plastic" alt="Zenn Followers" /></a>
+  <a href="https://zenn.dev/raiton"><img src="https://badgen.org/img/zenn/raiton/articles?style=plastic" alt="Zenn Articles" /></a>
 </p>
 
 <p align="center">
@@ -40,9 +40,8 @@
 
 ## :zap: Recent Activity
 
-<br />
-
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 2. 💪 Opened PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 3. 🎉 Merged PR [#2](https://github.com/raiton-boo/moto-archive/pull/2) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
@@ -50,81 +49,6 @@
 5. 🎉 Merged PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 6. 💪 Opened PR [#1](https://github.com/raiton-boo/moto-archive/pull/1) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
 <!--END_SECTION:activity-->
-
----
-
-## :hourglass: Weekly Coding Stats
-
-<details>
-  <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
-
-  <br />
-
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2040%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.96%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-🌆 Daytime                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-🌃 Evening                241 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌙 Night                  410 commits         █████████████░░░░░░░░░░░░   53.66 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Saturday                 215 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
-
-
- Last Updated on 12/02/2026 13:29:30 UTC
-<!--END_SECTION:waka-->
-
-</details>
 
 ---
 
@@ -136,7 +60,19 @@ Shell                    1 repo              ██░░░░░░░░░�
   <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/2-most-commit-language.svg" alt="Most commit language" />
   <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/3-stats.svg" alt="Stats" />
   <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/4-productive-time.svg" alt="Productive time" />
-  <br /><br />
+
+  <br />
+
   <img width="100%" height="auto" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/3d-contrib/profile-gitblock.svg" alt="3D contributions">
-  <br /><br />
+
+  <br />
+  <a href="https://u8views.com/github/raiton-boo"><img width="100%" src="https://u8views.com/api/v1/github/profiles/66812586/views/day-week-month-total-count.svg" alt="U8Views"></a>
+
 </div>
+
+---
+
+## :hourglass: Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
