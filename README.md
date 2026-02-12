@@ -38,9 +38,9 @@
 
 <div align="center">
 
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats">
+  <!-- <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats"> -->
 
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages">
+  <!-- <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages"> -->
 
   <img width="100%" height="auto" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contributions">
 
