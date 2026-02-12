@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout
+      - name: Checkout the code
         uses: actions/checkout@v4
 
       - name: Update Activity
@@ -25,4 +25,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
-          COMMIT_MSG: "chore: 📝 update activity log"
