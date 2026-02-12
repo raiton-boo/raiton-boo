@@ -41,8 +41,8 @@
 
 ---
 
-<div align="center">
-  <h2 align="left">⚡ Recent Activity</h2>
+<div align="left">
+  <h2>⚡ Recent Activity</h2>
   <br />
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/raiton-boo/moto-archive/pull/3) in [raiton-boo/moto-archive](https://github.com/raiton-boo/moto-archive)
@@ -56,8 +56,8 @@
 
 ---
 
-<div align="center">
-  <h2 align="left">⌛ Weekly Coding Stats</h2>
+<div align="left">
+  <h2>⌛ Weekly Coding Stats</h2>
   <details>
     <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
     <br />
