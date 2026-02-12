@@ -40,8 +40,9 @@
 
 ## :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+<br />
 
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
@@ -50,10 +51,12 @@
 
 <details>
   <summary><b>詳細なアクティビティを表示する (Click to expand)</b></summary>
-  <br />
-  <!--START_SECTION:waka-->
 
+  <br />
+
+  <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
+
 </details>
 
 ---
