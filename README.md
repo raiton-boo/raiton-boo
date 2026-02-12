@@ -42,9 +42,15 @@
 ## GitHub Statistics
 
 <div align="center">
-  <!-- <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=raiton-boo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&icon_color=00ff00&text_color=00ff00" alt="GitHub stats"> -->
+  <img width="100%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/0-profile-details.svg" alt="Profile details" />
+  <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/1-repos-per-language.svg" alt="Repositories per language" />
+  <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/3-stats.svg" alt="Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/summary/4-productive-time.svg" alt="Productive time" />
+</div>
 
-  <!-- <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiton-boo&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&text_color=00ff00" alt="Top languages"> -->
+<br />
 
-  <img width="100%" height="auto" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contributions">
+<div align="center">
+  <img width="100%" height="auto" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/3d-contrib/profile-gitblock.svg" alt="3D contributions">
 </div>
