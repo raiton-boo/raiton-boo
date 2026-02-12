@@ -22,11 +22,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-snake-light.svg" />
-
-  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/output/github-snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/snake/github-snake-light.svg" />
+  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/image/snake/github-snake-light.svg" />
 </picture>
 
 ---
