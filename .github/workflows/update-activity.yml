@@ -15,17 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Update Activity
-    uses: jamesgeorge007/github-activity-readme@master
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    with:
-      MAX_LINES: 10
-      COMMIT_MSG: "📝 Committed to"
-      ISSUE_MSG: "❗️ Opened issue in"
-      PR_MSG: "🎁 Opened PR in"
-      FOLLOW_MSG: "🏃 Started following"
+      - name: Update Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
+          COMMIT_MSG: '📝 Committed to'
+          ISSUE_MSG: '❗️ Opened issue in'
+          PR_MSG: '🎁 Opened PR in'
+          FOLLOW_MSG: '🏃 Started following'
