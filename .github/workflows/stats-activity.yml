@@ -1,8 +1,8 @@
-name: Update Github Activity
+name: '⚡ Update GitHub Activity'
 
 on:
   schedule:
-    # 30分毎に自動実行
+    # 毎時30分ごとに実行
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
@@ -10,18 +10,17 @@ permissions:
   contents: write
 
 jobs:
-  build:
-    name: update-activity-readme
+  update:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: Checkout the code
+      - name: '📂 Checkout Repository'
         uses: actions/checkout@v4
 
-      - name: Update Activity
+      - name: '🛠️ Update Activity'
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
+          COMMIT_MSG: 'chore: update github activity ⚡'

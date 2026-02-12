@@ -1,25 +1,23 @@
-name: GitHub Profile Summary Cards
+name: '🃏 Generate Profile Summary Cards'
 
 on:
   schedule:
-    # 日本時間 00:00 (UTC 15:00)
-    - cron: '0 15 * * *'
+    # 毎日 15:10 UTC (日本時間 00:10) に自動実行
+    - cron: '10 15 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
-    name: generate-github-profile-summary-cards
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: Checkout the code
+      - name: '📂 Checkout Repository'
         uses: actions/checkout@v4
 
-      - name: Generate summary cards
+      - name: '🛠️ Generate Summary Cards'
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -28,17 +26,17 @@ jobs:
           UTC_OFFSET: 9
           AUTO_PUSH: false
 
-      - name: Move to image/summary
+      - name: '🚚 Move to Directory'
         run: |
           mkdir -p image/summary
           cp -r profile-summary-card-output/zenburn/* image/summary/
 
-      - name: Commit & Push
+      - name: '🚀 Commit and Push Updates'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add image/summary/*
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update profile summary cards"
+            git commit -m "chore: update profile summary cards 🃏"
             git push origin main
           fi
