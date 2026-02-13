@@ -75,7 +75,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-238.06%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -106,16 +106,25 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.32 % 
+YAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+JSON                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 41 mins       ███████████████████████░░   93.77 % 
+Chrome                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Zsh                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+raiton-boo               2 hrs 11 mins       ███████████████████░░░░░░   76.40 % 
+moto-archive             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+raiton-dotfiles          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Terminal                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +144,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 15:35:02 UTC
+ Last Updated on 13/02/2026 15:30:10 UTC
 <!--END_SECTION:waka-->
