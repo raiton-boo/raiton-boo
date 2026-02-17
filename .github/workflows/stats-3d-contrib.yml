@@ -1,4 +1,4 @@
-name: '🧊 Generate 3D Contribution Grap'
+name: '🧊 Generate 3D Contribution Graph'
 
 on:
   schedule:
