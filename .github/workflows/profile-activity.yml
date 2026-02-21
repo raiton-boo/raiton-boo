@@ -28,24 +28,19 @@ jobs:
 
       - name: 🚀 Commit & Push
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git pull --rebase origin main
 
-          if [ -n "$(git status --porcelain README.md 2>/dev/null)" ]; then
+          if [ -n "$(git status --porcelain README.md)" ]; then
             git add README.md
-
             git commit -m "chore: update github activity ⚡" \
                       -m "Run ID: ${{ github.run_id }}" \
                       -m "Trigger: ${{ github.event_name }}"
-
-            git push origin main || {
-              sleep 3
-              git pull --rebase origin main
-              git push origin main
-            }
-
+            git push origin main
           else
-            echo "No activity changes to commit."
+            echo "No activity changes."
           fi

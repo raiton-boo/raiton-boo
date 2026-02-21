@@ -17,6 +17,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: 📁 Ensure directory
+        run: mkdir -p image/snake
+
       - name: '🛠️ Generate Snake Animation'
         uses: Platane/snk@v3
         with:
@@ -29,24 +32,19 @@ jobs:
 
       - name: 🚀 Commit & Push
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git pull --rebase origin main
 
-          if [ -n "$(git status --porcelain image/snake 2>/dev/null)" ]; then
+          if [ -n "$(git status --porcelain image/snake)" ]; then
             git add image/snake
-
             git commit -m "chore: update snake animation 🐍" \
                       -m "Run ID: ${{ github.run_id }}" \
                       -m "Trigger: ${{ github.event_name }}"
-
-            git push origin main || {
-              sleep 3
-              git pull --rebase origin main
-              git push origin main
-            }
-
+            git push origin main
           else
-            echo "No snake changes to commit."
+            echo "No snake changes."
           fi
