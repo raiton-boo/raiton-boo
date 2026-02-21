@@ -17,11 +17,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 🔄 Sync with remote
-        run: |
-          set -euo pipefail
-          git pull --rebase origin main
-
       - name: 📁 Ensure directory
         run: mkdir -p image/snake
 

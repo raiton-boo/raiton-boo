@@ -17,11 +17,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 🔄 Sync with remote
-        run: |
-          set -euo pipefail
-          git pull --rebase origin main
-
       - name: '🛠️ Generate 3D Graph'
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
