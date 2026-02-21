@@ -1,0 +1,181 @@
+name: 🚀 Profile Update Pipeline
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 毎日 00:00 JSTに実行
+    - cron: '*/30 * * * *' # 30分ごとに実行
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'ワークフローの対象を選択してください。(allは全てのワークフローを実行)'
+        type: choice
+        required: true
+        default: 'all'
+        options:
+          - all
+          - 3d
+          - snake
+          - summary
+          - wakatime
+          - activity
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 📂 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🧱 Init commit queue
+        run: echo "" > .commit_queue
+
+      # 🧊 3D Contribution
+      - name: 🧊 Generate 3D Graph
+        if: |
+          github.event.schedule == '0 15 * * *' ||
+          (github.event_name == 'workflow_dispatch' && (inputs.target == '3d' || inputs.target == 'all'))
+        continue-on-error: true
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Sync 3D Output
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            mkdir -p image/3d-contrib
+            rsync -a --delete profile-3d-contrib/ image/3d-contrib/
+          fi
+
+      - name: Queue 3D Commit
+        run: |
+          if [ -n "$(git status --porcelain image/3d-contrib 2>/dev/null)" ]; then
+            echo "- update 3d contribution graph ✨" >> .commit_queue
+          fi
+
+      # 🐍 Snake Animation
+      - name: 🐍 Generate Snake Animation
+        if: |
+          github.event.schedule == '0 15 * * *' ||
+          (github.event_name == 'workflow_dispatch' && (inputs.target == 'snake' || inputs.target == 'all'))
+        continue-on-error: true
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            image/snake/github-snake-light.svg?palette=github-light
+            image/snake/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Queue Snake Commit
+        run: |
+          if [ -n "$(git status --porcelain image/snake 2>/dev/null)" ]; then
+            echo "- update snake animation 🐍" >> .commit_queue
+          fi
+
+      # 🃏 Summary Cards
+      - name: 🃏 Generate Summary Cards
+        if: |
+          github.event.schedule == '0 15 * * *' ||
+          (github.event_name == 'workflow_dispatch' && (inputs.target == 'summary' || inputs.target == 'all'))
+        continue-on-error: true
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          AUTO_PUSH: false
+
+      - name: Sync Summary Output
+        run: |
+          if [ -d "profile-summary-card-output/zenburn" ]; then
+            mkdir -p image/summary
+            rsync -a --delete profile-summary-card-output/zenburn/ image/summary/
+          fi
+
+      - name: Queue Summary Commit
+        run: |
+          if [ -n "$(git status --porcelain image/summary 2>/dev/null)" ]; then
+            echo "- update profile summary cards 🃏" >> .commit_queue
+          fi
+
+      # ⏳ Wakatime
+      - name: ⏳ Update WakaTime Stats
+        if: |
+          github.event.schedule == '0 15 * * *' ||
+          (github.event_name == 'workflow_dispatch' && (inputs.target == 'wakatime' || inputs.target == 'all'))
+        continue-on-error: true
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_PROFILE_VIEWS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LINES_OF_CODE: true
+          COMMIT_MESSAGE: ''
+
+      - name: Queue WakaTime Commit
+        run: |
+          if [ -n "$(git status --porcelain README.md 2>/dev/null)" ]; then
+            echo "- update wakatime stats ⏳" >> .commit_queue
+          fi
+
+      # ⚡ GitHub Activity
+      - name: ⚡ Update GitHub Activity
+        if: |
+          github.event.schedule == '*/30 * * * *' ||
+          (github.event_name == 'workflow_dispatch' && inputs.target == 'activity')
+        continue-on-error: true
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
+          COMMIT_MSG: ''
+
+      - name: Queue Activity Commit
+        run: |
+          if [ -n "$(git status --porcelain README.md 2>/dev/null)" ]; then
+            echo "- update github activity ⚡" >> .commit_queue
+          fi
+
+      # 🚀 Final Commit $ Push
+      - name: 🚀 Commit & Push (Rebase + Retry)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
+          git add -A
+
+          if ! git diff --cached --quiet; then
+
+            CLEAN_QUEUE=$(sed '/^$/d' .commit_queue)
+
+            git commit -m "chore(profile): auto update" \
+                      -m "$CLEAN_QUEUE" \
+                      -m "Run ID: ${{ github.run_id }}" \
+                      -m "Trigger: ${{ github.event_name }}"
+
+            git push origin main || {
+              sleep 3
+              git pull --rebase origin main
+              git push origin main
+            }
+
+          else
+            echo "No changes to commit."
+          fi
