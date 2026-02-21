@@ -165,10 +165,16 @@ jobs:
 
             CLEAN_QUEUE=$(sed '/^$/d' .commit_queue)
 
-            git commit -m "chore(profile): auto update" \
-                      -m "$CLEAN_QUEUE" \
-                      -m "Run ID: ${{ github.run_id }}" \
-                      -m "Trigger: ${{ github.event_name }}"
+            if [ -n "$CLEAN_QUEUE" ]; then
+              git commit -m "chore(profile): auto update" \
+                        -m "$CLEAN_QUEUE" \
+                        -m "Run ID: ${{ github.run_id }}" \
+                        -m "Trigger: ${{ github.event_name }}"
+            else
+              git commit -m "chore(profile): auto update" \
+                        -m "Run ID: ${{ github.run_id }}" \
+                        -m "Trigger: ${{ github.event_name }}"
+            fi
 
             git push origin main || {
               sleep 3
