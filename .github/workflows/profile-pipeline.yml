@@ -1,0 +1,72 @@
+name: 🚀 Profile Update Pipeline
+
+on:
+  schedule:
+    - cron: '0 15 * * *'     # 毎日 00:00 JST
+    - cron: '*/30 * * * *'   # 30分ごと
+  workflow_dispatch:
+    inputs:
+      target:
+        description: '実行対象を選択'
+        type: choice
+        required: true
+        default: 'all'
+        options:
+          - all
+          - 3d
+          - snake
+          - summary
+          - wakatime
+          - activity
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+
+jobs:
+
+  job-3d:
+    if: |
+      github.event.schedule == '0 15 * * *' ||
+      (github.event_name == 'workflow_dispatch' && (inputs.target == '3d' || inputs.target == 'all'))
+    uses: ./.github/workflows/profile-3d.yml
+
+  job-snake:
+    needs: job-3d
+    if: |
+      always() && (
+        github.event.schedule == '0 15 * * *' ||
+        (github.event_name == 'workflow_dispatch' && (inputs.target == 'snake' || inputs.target == 'all'))
+      )
+    uses: ./.github/workflows/profile-snake.yml
+
+  job-summary:
+    needs: job-snake
+    if: |
+      always() && (
+        github.event.schedule == '0 15 * * *' ||
+        (github.event_name == 'workflow_dispatch' && (inputs.target == 'summary' || inputs.target == 'all'))
+      )
+    uses: ./.github/workflows/profile-summary.yml
+
+  job-wakatime:
+    needs: job-summary
+    if: |
+      always() && (
+        github.event.schedule == '0 15 * * *' ||
+        (github.event_name == 'workflow_dispatch' && (inputs.target == 'wakatime' || inputs.target == 'all'))
+      )
+    uses: ./.github/workflows/profile-wakatime.yml
+
+  job-activity:
+    needs: job-wakatime
+    if: |
+      always() && (
+        github.event.schedule == '*/30 * * * *' ||
+        (github.event_name == 'workflow_dispatch' && inputs.target == 'activity')
+      )
+    uses: ./.github/workflows/profile-activity.yml

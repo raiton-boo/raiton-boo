@@ -1,0 +1,58 @@
+name: ⏳ WakaTime Stats
+
+
+on:
+  workflow_call:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: '📂 Checkout Repository'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: '🛠️ Update WakaTime Stats'
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          SHOW_PROFILE_VIEWS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LINES_OF_CODE: true
+          # COMMIT_MESSAGE: 'chore: update wakatime stats ⏳'
+          COMMIT_MESSAGE: ''
+
+      - name: 🚀 Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
+
+          if [ -n "$(git status --porcelain README.md 2>/dev/null)" ]; then
+            git add README.md
+
+            git commit -m "chore: update wakatime stats ⏳" \
+                      -m "Run ID: ${{ github.run_id }}" \
+                      -m "Trigger: ${{ github.event_name }}"
+
+            git push origin main || {
+              sleep 3
+              git pull --rebase origin main
+              git push origin main
+            }
+
+          else
+            echo "No wakatime changes to commit."
+          fi

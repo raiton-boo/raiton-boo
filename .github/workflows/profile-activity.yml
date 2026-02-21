@@ -1,0 +1,55 @@
+name: ⚡ GitHub Activity
+
+on:
+  workflow_call:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: '📂 Checkout Repository'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: '🛠️ Update GitHub Activity'
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
+          # COMMIT_MSG: 'chore: update github activity ⚡'
+          COMMIT_MSG: ''
+
+      - name: 🚀 Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
+
+          if [ -n "$(git status --porcelain README.md 2>/dev/null)" ]; then
+            git add README.md
+
+            git commit -m "chore: update github activity ⚡" \
+                      -m "Run ID: ${{ github.run_id }}" \
+                      -m "Trigger: ${{ github.event_name }}"
+
+            git push origin main || {
+              sleep 3
+              git pull --rebase origin main
+              git push origin main
+            }
+
+          else
+            echo "No activity changes to commit."
+          fi

@@ -1,0 +1,59 @@
+name: 🧊 3D Contribution Graph
+
+on:
+  workflow_call:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: '📂 Checkout Repository'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: '🛠️ Generate 3D Graph'
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: 📁 Sync Output
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            mkdir -p image/3d-contrib
+            rsync -a --delete profile-3d-contrib/ image/3d-contrib/
+          fi
+
+      - name: 🚀 Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
+
+          if [ -n "$(git status --porcelain image/3d-contrib 2>/dev/null)" ]; then
+            git add image/3d-contrib
+
+            git commit -m "chore: update 3d contribution graph 🧊" \
+                      -m "Run ID: ${{ github.run_id }}" \
+                      -m "Trigger: ${{ github.event_name }}"
+
+            git push origin main || {
+              sleep 3
+              git pull --rebase origin main
+              git push origin main
+            }
+
+          else
+            echo "No 3D changes to commit."
+          fi
