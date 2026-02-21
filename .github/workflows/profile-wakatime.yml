@@ -1,15 +1,10 @@
 name: ⏳ WakaTime Stats
 
-
 on:
   workflow_call:
 
 permissions:
   contents: write
-
-concurrency:
-  group: profile-update
-  cancel-in-progress: false
 
 jobs:
   generate:

@@ -6,10 +6,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: profile-update
-  cancel-in-progress: false
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -29,9 +25,13 @@ jobs:
 
       - name: 📁 Sync Output
         run: |
-          if [ -d "profile-3d-contrib" ]; then
+          set -euo pipefail
+
+          if [ -d profile-3d-contrib ] && [ "$(ls -A profile-3d-contrib)" ]; then
             mkdir -p image/3d-contrib
             rsync -a --delete profile-3d-contrib/ image/3d-contrib/
+          else
+            echo "No generated files found."
           fi
 
       - name: 🚀 Commit & Push

@@ -6,10 +6,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: profile-update
-  cancel-in-progress: false
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -32,9 +28,13 @@ jobs:
 
       - name: 📁 Sync Output
         run: |
-          if [ -d "profile-summary-card-output/zenburn" ]; then
+          set -euo pipefail
+
+          if [ -d "profile-summary-card-output/zenburn" ] && [ "$(ls -A profile-summary-card-output/zenburn)" ]; then
             mkdir -p image/summary
             rsync -a --delete profile-summary-card-output/zenburn/ image/summary/
+          else
+            echo "No generated files found."
           fi
 
       - name: 🚀 Commit & Push
