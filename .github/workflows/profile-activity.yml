@@ -19,6 +19,7 @@ jobs:
 
       - name: '🛠️ Update GitHub Activity'
         uses: jamesgeorge007/github-activity-readme@master
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
