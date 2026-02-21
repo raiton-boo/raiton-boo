@@ -17,6 +17,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: 🔄 Sync with remote
+        run: |
+          set -euo pipefail
+          git pull --rebase origin main
+
       - name: '🛠️ Generate 3D Graph'
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -26,24 +31,18 @@ jobs:
       - name: 📁 Sync Output
         run: |
           set -euo pipefail
-
           if [ -d profile-3d-contrib ] && [ "$(ls -A profile-3d-contrib)" ]; then
             mkdir -p image/3d-contrib
             rsync -a --delete profile-3d-contrib/ image/3d-contrib/
-          else
-            echo "No generated files found."
           fi
 
       - name: 🚀 Commit & Push
         run: |
           set -euo pipefail
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git pull --rebase origin main
-
-          if [ -n "$(git status --porcelain image/3d-contrib 2>/dev/null)" ]; then
+          if [ -n "$(git status --porcelain image/3d-contrib)" ]; then
             git add image/3d-contrib
             git commit -m "chore: update 3d contribution graph 🧊" \
                       -m "Run ID: ${{ github.run_id }}" \
