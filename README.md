@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.63%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -107,16 +107,23 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 11 mins        ████████████████░░░░░░░░░   63.03 % 
+CSS                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 29 mins        ████████████████████░░░░░   78.97 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Zsh                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Terminal                 1 hr 8 mins         ███████████████░░░░░░░░░░   60.97 % 
+year-project             44 mins             ██████████░░░░░░░░░░░░░░░   39.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +142,5 @@ HTML                     2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 15:36:27 UTC
+ Last Updated on 27/03/2026 15:23:20 UTC
 <!--END_SECTION:waka-->
