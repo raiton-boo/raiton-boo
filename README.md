@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/raiton-boo/year-project/pull/5) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-2. 💪 Opened PR [#5](https://github.com/raiton-boo/year-project/pull/5) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-3. 🚀 Published release [v1.0.1](https://github.com/raiton-boo/year-project/releases/tag/v1.0.1) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-4. 🎉 Merged PR [#4](https://github.com/raiton-boo/year-project/pull/4) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-5. 💪 Opened PR [#4](https://github.com/raiton-boo/year-project/pull/4) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-6. ❌ Closed PR [#3](https://github.com/raiton-boo/year-project/pull/3) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+1. 🎉 Merged PR [#6](https://github.com/raiton-boo/year-project/pull/6) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+2. 💪 Opened PR [#6](https://github.com/raiton-boo/year-project/pull/6) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+3. 🎉 Merged PR [#5](https://github.com/raiton-boo/year-project/pull/5) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+4. 💪 Opened PR [#5](https://github.com/raiton-boo/year-project/pull/5) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+5. 🎉 Merged PR [#4](https://github.com/raiton-boo/year-project/pull/4) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+6. 💪 Opened PR [#4](https://github.com/raiton-boo/year-project/pull/4) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
 <!--END_SECTION:activity-->
 
 ---
