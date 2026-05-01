@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.60%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -107,16 +107,18 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.00 % 
+Other                    10 mins             █████████████████████████   99.57 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Chrome                   8 mins              █████████████████████████   100.00 % 
+Chrome                   10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Terminal                 8 mins              █████████████████████████   100.00 % 
+Terminal                 8 mins              ████████████████████░░░░░   80.33 % 
+year-project             2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +137,5 @@ HTML                     2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 15:41:41 UTC
+ Last Updated on 01/05/2026 15:31:05 UTC
 <!--END_SECTION:waka-->
