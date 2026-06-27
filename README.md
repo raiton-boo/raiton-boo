@@ -107,18 +107,16 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 min               ████████████████░░░░░░░░░   65.22 % 
-JSON                     0 secs              █████████░░░░░░░░░░░░░░░░   34.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-raiton-boo               1 min               ██████████████████░░░░░░░   72.85 % 
-line-bot-sdk-nodejs      0 secs              ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,5 +135,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2026 15:50:54 UTC
+ Last Updated on 27/06/2026 15:32:41 UTC
 <!--END_SECTION:waka-->
