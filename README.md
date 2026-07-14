@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.60%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -107,16 +107,21 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Other                    1 hr 55 mins        █████████████████████████   99.56 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Chrome                   0 secs              █████████████████████████   100.00 % 
+Chrome                   1 hr 50 mins        ████████████████████████░   95.62 % 
+Zsh                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🐱‍💻 Projects: 
-raiton-boo               0 secs              █████████████████████████   100.00 % 
+Terminal                 1 hr 48 mins        ███████████████████████░░   93.61 % 
+raiton-boo               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Whisky                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+first-contributions      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,5 +140,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 17:15:22 UTC
+ Last Updated on 14/07/2026 16:18:58 UTC
 <!--END_SECTION:waka-->
