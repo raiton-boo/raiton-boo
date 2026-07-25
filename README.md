@@ -76,7 +76,52 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2013%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.97%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌆 Daytime                70 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌃 Evening                92 commits          ██████████░░░░░░░░░░░░░░░   38.66 % 
+🌙 Night                  70 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Friday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 77 commits          ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+JSON                     1 hr 11 mins        █████████████████░░░░░░░░   66.90 % 
+Other                    35 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
+
+🔥 Editors: 
+Chrome                   1 hr 47 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+line-guess-game          1 hr 23 mins        ████████████████████░░░░░   78.12 % 
+Qiita                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Zenn                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+💻 Operating System: 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -95,5 +140,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 16:45:53 UTC
+ Last Updated on 25/07/2026 16:07:00 UTC
 <!--END_SECTION:waka-->
