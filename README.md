@@ -76,7 +76,62 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.97%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.20%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                76 commits          ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌃 Evening                92 commits          ██████████░░░░░░░░░░░░░░░   38.66 % 
+🌙 Night                  70 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Saturday                 77 commits          ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    6 hrs 17 mins       ████████████████████░░░░░   81.66 % 
+JSON                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+
+🔥 Editors: 
+Chrome                   7 hrs 40 mins       █████████████████████████   99.69 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🐱‍💻 Projects: 
+Terminal                 4 hrs 55 mins       ████████████████░░░░░░░░░   63.96 % 
+line-guess-game          1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+line-bot-sdk-php         59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Qiita                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Zenn                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+💻 Operating System: 
+Mac                      7 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -84,7 +139,7 @@
 TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Blade                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
@@ -95,5 +150,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 16:43:14 UTC
+ Last Updated on 29/07/2026 16:24:28 UTC
 <!--END_SECTION:waka-->
