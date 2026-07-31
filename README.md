@@ -76,30 +76,30 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.27%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.30%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                133 commits         ███████████░░░░░░░░░░░░░░   45.08 % 
-🌃 Evening                92 commits          ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌙 Night                  70 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌆 Daytime                360 commits         █████████████████░░░░░░░░   68.97 % 
+🌃 Evening                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+🌙 Night                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Thursday                 57 commits          █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Saturday                 77 commits          ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Tuesday                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Wednesday                151 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Thursday                 104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Friday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Saturday                 77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -109,22 +109,22 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 9 mins        ████████████████████░░░░░   79.24 % 
-JSON                     2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Other                    10 hrs 36 mins      ████████████████████░░░░░   79.47 % 
+JSON                     2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 31 mins      █████████████████████████   99.79 % 
-Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Chrome                   13 hrs 19 mins      █████████████████████████   99.82 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-Terminal                 5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.63 % 
-line-bot-sdk-php         4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.80 % 
-line-guess-game          1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Qiita                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-line-aikotoba-bot        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+line-bot-sdk-php         5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+Terminal                 5 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
+line-aikotoba-bot        1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+line-guess-game          1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+line-openapi             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +139,7 @@ No AI Coding Activity Tracked This Week
 TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Blade                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
@@ -150,5 +150,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 16:38:53 UTC
+ Last Updated on 31/07/2026 16:48:41 UTC
 <!--END_SECTION:waka-->
