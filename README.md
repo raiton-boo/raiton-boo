@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
@@ -109,22 +109,22 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    10 hrs 36 mins      ████████████████████░░░░░   79.47 % 
-JSON                     2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Other                    10 hrs 6 mins       ███████████████████░░░░░░   77.81 % 
+JSON                     2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 19 mins      █████████████████████████   99.82 % 
-Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Chrome                   12 hrs 57 mins      █████████████████████████   99.81 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-line-bot-sdk-php         5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
-Terminal                 5 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
-line-aikotoba-bot        1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-line-guess-game          1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+line-bot-sdk-php         5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.02 % 
+Terminal                 5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.76 % 
+line-aikotoba-bot        2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 line-openapi             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -150,5 +150,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 16:48:41 UTC
+ Last Updated on 01/08/2026 16:04:00 UTC
 <!--END_SECTION:waka-->
