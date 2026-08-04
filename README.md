@@ -109,22 +109,21 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 20 mins       ███████████████████░░░░░░   77.77 % 
-JSON                     2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Other                    8 hrs 5 mins        ███████████████████░░░░░░   75.02 % 
+JSON                     2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 59 mins      █████████████████████████   99.80 % 
-Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Chrome                   10 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Terminal                 5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.94 % 
-line-bot-sdk-php         4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
-line-aikotoba-bot        2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+line-bot-sdk-php         4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
+line-aikotoba-bot        3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
+Terminal                 2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 line-openapi             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      12 hrs              █████████████████████████   100.00 % 
+Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -150,5 +149,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 16:03:34 UTC
+ Last Updated on 04/08/2026 16:55:19 UTC
 <!--END_SECTION:waka-->
