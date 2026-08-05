@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
@@ -109,21 +109,21 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    8 hrs 5 mins        ███████████████████░░░░░░   75.02 % 
-JSON                     2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Other                    7 hrs 39 mins       ██████████████████░░░░░░░   73.96 % 
+JSON                     2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 47 mins      █████████████████████████   100.00 % 
+Chrome                   10 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-line-bot-sdk-php         4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
-line-aikotoba-bot        3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Terminal                 2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+line-aikotoba-bot        5 hrs 29 mins       █████████████░░░░░░░░░░░░   53.14 % 
+line-bot-sdk-php         4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
+Terminal                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 line-openapi             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,5 +149,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 16:55:19 UTC
+ Last Updated on 05/08/2026 16:44:52 UTC
 <!--END_SECTION:waka-->
