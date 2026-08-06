@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/raiton-boo/year-project/pull/9) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-2. 💪 Opened PR [#9](https://github.com/raiton-boo/year-project/pull/9) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-3. 🎉 Merged PR [#8](https://github.com/raiton-boo/year-project/pull/8) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-4. 💪 Opened PR [#8](https://github.com/raiton-boo/year-project/pull/8) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-5. 🎉 Merged PR [#7](https://github.com/raiton-boo/year-project/pull/7) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-6. 💪 Opened PR [#7](https://github.com/raiton-boo/year-project/pull/7) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+1. ❗ Opened issue [#5](https://github.com/raiton-boo/realtime-seat-booking/issues/5) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+2. 🔒 Closed issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+3. 🎉 Merged PR [#4](https://github.com/raiton-boo/realtime-seat-booking/pull/4) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+4. ℹ️ Assigned PR [#4](https://github.com/raiton-boo/realtime-seat-booking/pull/4) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+5. 💪 Opened PR [#4](https://github.com/raiton-boo/realtime-seat-booking/pull/4) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+6. ❗ Opened issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
 <!--END_SECTION:activity-->
 
 ---
