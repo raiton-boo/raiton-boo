@@ -76,7 +76,61 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.17%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                83 commits          █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                85 commits          █████████░░░░░░░░░░░░░░░░   36.96 % 
+🌙 Night                  62 commits          ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Thursday                 63 commits          ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 77 commits          ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    8 hrs 6 mins        ████████████████████░░░░░   81.50 % 
+JSON                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+
+🔥 Editors: 
+Chrome                   9 hrs 56 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+line-aikotoba-bot        6 hrs 38 mins       █████████████████░░░░░░░░   66.70 % 
+realtime-kanban          2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+realtime-seat-booking    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+raiton-dotfiles          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+postgres                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+💻 Operating System: 
+Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -94,5 +148,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 15:59:34 UTC
+ Last Updated on 08/08/2026 15:33:33 UTC
 <!--END_SECTION:waka-->
