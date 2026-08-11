@@ -109,21 +109,21 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    8 hrs 6 mins        ████████████████████░░░░░   81.50 % 
-JSON                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Other                    6 hrs 43 mins       ████████████████████░░░░░   78.76 % 
+JSON                     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 56 mins       █████████████████████████   100.00 % 
+Chrome                   8 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-line-aikotoba-bot        6 hrs 38 mins       █████████████████░░░░░░░░   66.70 % 
-realtime-kanban          2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-realtime-seat-booking    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-raiton-dotfiles          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-postgres                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+line-aikotoba-bot        5 hrs 13 mins       ███████████████░░░░░░░░░░   61.23 % 
+realtime-kanban          2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
+realtime-seat-booking    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+raiton-dotfiles          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+postgres                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,5 +148,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 16:02:48 UTC
+ Last Updated on 11/08/2026 16:03:33 UTC
 <!--END_SECTION:waka-->
