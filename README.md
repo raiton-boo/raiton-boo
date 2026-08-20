@@ -45,9 +45,9 @@
 
 1. ❗ Opened issue [#5](https://github.com/raiton-boo/realtime-seat-booking/issues/5) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
 2. 🔒 Closed issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-3. 🎉 Merged PR [#4](https://github.com/raiton-boo/realtime-seat-booking/pull/4) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-4. ℹ️ Assigned PR [#4](https://github.com/raiton-boo/realtime-seat-booking/pull/4) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-5. 💪 Opened PR [#4](https://github.com/raiton-boo/realtime-seat-booking/pull/4) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+3. ❗ Opened issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+4. 🔒 Closed issue [#1](https://github.com/raiton-boo/realtime-seat-booking/issues/1) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+5. ❗ Opened issue [#1](https://github.com/raiton-boo/realtime-seat-booking/issues/1) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
 6. ❗ Opened issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
 <!--END_SECTION:activity-->
 
