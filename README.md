@@ -109,18 +109,18 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    38 mins             ████████████████░░░░░░░░░   65.51 % 
-JSON                     20 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
+Other                    44 mins             █████████████████░░░░░░░░   68.71 % 
+JSON                     20 mins             ████████░░░░░░░░░░░░░░░░░   31.29 % 
 
 🔥 Editors: 
-Chrome                   58 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-realtime-seat-booking    32 mins             ██████████████░░░░░░░░░░░   55.88 % 
-neo-hoot                 25 mins             ███████████░░░░░░░░░░░░░░   44.12 % 
+realtime-seat-booking    32 mins             █████████████░░░░░░░░░░░░   50.32 % 
+neo-hoot                 32 mins             ████████████░░░░░░░░░░░░░   49.68 % 
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,5 +145,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 15:45:10 UTC
+ Last Updated on 26/08/2026 16:20:42 UTC
 <!--END_SECTION:waka-->
