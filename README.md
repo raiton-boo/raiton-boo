@@ -80,26 +80,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.60%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.95%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                56 commits          ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-🌃 Evening                85 commits          ██████████░░░░░░░░░░░░░░░   41.87 % 
-🌙 Night                  62 commits          ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌆 Daytime                130 commits         ██████████░░░░░░░░░░░░░░░   41.67 % 
+🌃 Evening                104 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  62 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Saturday                 77 commits          █████████░░░░░░░░░░░░░░░░   37.93 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Monday                   96 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Wednesday                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Thursday                 68 commits          █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 77 commits          ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Sunday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 
@@ -109,17 +109,17 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    19 mins             ████████████████████░░░░░   78.24 % 
-JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+JSON                     1 hr 14 mins        █████████████░░░░░░░░░░░░   53.16 % 
+Other                    1 hr 5 mins         ████████████░░░░░░░░░░░░░   46.84 % 
 
 🔥 Editors: 
-Chrome                   25 mins             █████████████████████████   100.00 % 
+Chrome                   2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-hoot                 25 mins             █████████████████████████   100.00 % 
+neo-hoot                 2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -131,10 +131,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -144,5 +144,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 18:30:28 UTC
+ Last Updated on 31/08/2026 20:43:42 UTC
 <!--END_SECTION:waka-->
