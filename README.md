@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#5](https://github.com/raiton-boo/realtime-seat-booking/issues/5) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-2. 🔒 Closed issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-3. ❗ Opened issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-4. 🔒 Closed issue [#1](https://github.com/raiton-boo/realtime-seat-booking/issues/1) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-5. ❗ Opened issue [#1](https://github.com/raiton-boo/realtime-seat-booking/issues/1) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
-6. ❗ Opened issue [#3](https://github.com/raiton-boo/realtime-seat-booking/issues/3) in [raiton-boo/realtime-seat-booking](https://github.com/raiton-boo/realtime-seat-booking)
+1. ❗ Opened issue [#9](https://github.com/raiton-boo/neo-hoot/issues/9) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+2. ❗ Opened issue [#8](https://github.com/raiton-boo/neo-hoot/issues/8) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+3. ❗ Opened issue [#7](https://github.com/raiton-boo/neo-hoot/issues/7) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+4. ❗ Opened issue [#6](https://github.com/raiton-boo/neo-hoot/issues/6) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+5. ❗ Opened issue [#5](https://github.com/raiton-boo/neo-hoot/issues/5) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+6. ❗ Opened issue [#4](https://github.com/raiton-boo/neo-hoot/issues/4) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
 <!--END_SECTION:activity-->
 
 ---
