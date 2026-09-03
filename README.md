@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/raiton-boo/neo-hoot/issues/4) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-2. 🎉 Merged PR [#14](https://github.com/raiton-boo/neo-hoot/pull/14) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-3. ℹ️ Assigned PR [#14](https://github.com/raiton-boo/neo-hoot/pull/14) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-4. 💪 Opened PR [#14](https://github.com/raiton-boo/neo-hoot/pull/14) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-5. 🎉 Merged PR [#13](https://github.com/raiton-boo/neo-hoot/pull/13) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-6. 🔒 Closed issue [#3](https://github.com/raiton-boo/neo-hoot/issues/3) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+1. 🎉 Merged PR [#20](https://github.com/raiton-boo/neo-hoot/pull/20) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+2. 🔒 Closed issue [#17](https://github.com/raiton-boo/neo-hoot/issues/17) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+3. ℹ️ Assigned PR [#20](https://github.com/raiton-boo/neo-hoot/pull/20) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+4. 💪 Opened PR [#20](https://github.com/raiton-boo/neo-hoot/pull/20) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+5. ℹ️ Assigned issue [#19](https://github.com/raiton-boo/neo-hoot/issues/19) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+6. ❗ Opened issue [#19](https://github.com/raiton-boo/neo-hoot/issues/19) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
 <!--END_SECTION:activity-->
 
 ---
