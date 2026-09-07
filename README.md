@@ -80,26 +80,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-414.26%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-446.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌆 Daytime                801 commits         ██████████████░░░░░░░░░░░   55.39 % 
-🌃 Evening                346 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+🌞 Morning                259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+🌆 Daytime                863 commits         ██████████████░░░░░░░░░░░   55.39 % 
+🌃 Evening                374 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   456 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Tuesday                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Wednesday                78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Thursday                 579 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
-Friday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Monday                   490 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Tuesday                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Wednesday                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Thursday                 627 commits         ██████████░░░░░░░░░░░░░░░   40.24 % 
+Friday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Saturday                 77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
@@ -109,18 +109,19 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    10 hrs 33 mins      ████████████████████░░░░░   80.69 % 
-JSON                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Other                    9 hrs 50 mins       █████████████████████░░░░   84.61 % 
+JSON                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 4 mins       █████████████████████████   100.00 % 
+Chrome                   11 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-hoot                 13 hrs 4 mins       █████████████████████████   99.98 % 
-moto-archive             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+neo-hoot                 11 hrs 38 mins      █████████████████████████   99.97 % 
+moto-archive             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,5 +146,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 17:33:42 UTC
+ Last Updated on 07/09/2026 19:04:00 UTC
 <!--END_SECTION:waka-->
