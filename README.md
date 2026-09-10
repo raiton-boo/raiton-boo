@@ -109,19 +109,19 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    8 hrs 10 mins       ████████████████████░░░░░   79.09 % 
-JSON                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Other                    5 hrs 29 mins       ██████████████████░░░░░░░   71.80 % 
+JSON                     2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 19 mins      █████████████████████████   100.00 % 
+Chrome                   7 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-hoot                 10 hrs 19 mins      █████████████████████████   99.97 % 
-moto-archive             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+neo-hoot                 7 hrs 38 mins       █████████████████████████   99.96 % 
+moto-archive             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,5 +146,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 18:24:18 UTC
+ Last Updated on 10/09/2026 18:14:14 UTC
 <!--END_SECTION:waka-->
