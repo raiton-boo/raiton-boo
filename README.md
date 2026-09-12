@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
@@ -109,18 +109,18 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    3 hrs 11 mins       █████████████████░░░░░░░░   68.77 % 
-JSON                     1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+JSON                     59 mins             ███████████████████░░░░░░   77.09 % 
+Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 38 mins       █████████████████████████   100.00 % 
+Chrome                   1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-hoot                 4 hrs 38 mins       █████████████████████████   99.99 % 
-line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+neo-hoot                 1 hr 16 mins        █████████████████████████   99.97 % 
+line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,5 +145,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 18:16:52 UTC
+ Last Updated on 12/09/2026 17:44:02 UTC
 <!--END_SECTION:waka-->
