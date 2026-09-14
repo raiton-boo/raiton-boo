@@ -109,18 +109,17 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     59 mins             ███████████████████░░░░░░   77.09 % 
-Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+JSON                     34 mins             █████████████████████████   98.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Chrome                   1 hr 16 mins        █████████████████████████   100.00 % 
+Chrome                   34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-hoot                 1 hr 16 mins        █████████████████████████   99.97 % 
-line-guess-game          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+neo-hoot                 34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,5 +144,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 18:00:56 UTC
+ Last Updated on 14/09/2026 19:47:42 UTC
 <!--END_SECTION:waka-->
