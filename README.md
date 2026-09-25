@@ -109,18 +109,21 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        █████████████████████████   100.00 % 
+Other                    1 hr 43 mins        █████████████████████████   98.64 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Chrome                   1 hr 38 mins        █████████████████████████   98.51 % 
-Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Chrome                   1 hr 43 mins        █████████████████████████   98.58 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-Terminal                 1 hr 39 mins        █████████████████████████   99.16 % 
-neo-hoot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Terminal                 1 hr 44 mins        █████████████████████████   99.20 % 
+neo-hoot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+line-aikotoba-bot        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+line-bot-sdk-php         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,5 +148,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 18:53:48 UTC
+ Last Updated on 25/09/2026 19:12:07 UTC
 <!--END_SECTION:waka-->
