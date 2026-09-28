@@ -109,22 +109,21 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    2 hrs 3 mins        █████████████████████████   98.86 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other                    1 hr 40 mins        █████████████████████████   98.60 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Chrome                   2 hrs               ████████████████████████░   96.54 % 
-Zsh                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Chrome                   1 hr 28 mins        ██████████████████████░░░   87.18 % 
+Zsh                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 
 🐱‍💻 Projects: 
-Terminal                 1 hr 47 mins        █████████████████████░░░░   85.79 % 
-line-guess-game          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-neo-hoot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Terminal                 1 hr 24 mins        █████████████████████░░░░   83.41 % 
+line-guess-game          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 line-aikotoba-bot        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 line-bot-sdk-php         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,5 +148,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 18:57:39 UTC
+ Last Updated on 28/09/2026 21:09:10 UTC
 <!--END_SECTION:waka-->
