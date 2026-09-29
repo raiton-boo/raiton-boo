@@ -109,36 +109,58 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        █████████████████████████   98.60 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    4 hrs 12 mins       ██████████████████████░░░   86.88 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+SSH Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+tmux                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Chrome                   1 hr 28 mins        ██████████████████████░░░   87.18 % 
-Zsh                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Chrome                   4 hrs 1 min         █████████████████████░░░░   82.87 % 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Zsh                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🐱‍💻 Projects: 
-Terminal                 1 hr 24 mins        █████████████████████░░░░   83.41 % 
-line-guess-game          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-line-aikotoba-bot        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-line-bot-sdk-php         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+config                   2 hrs 55 mins       ███████████████░░░░░░░░░░   60.37 % 
+Terminal                 1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+line-guess-game          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+raiton                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+game-os                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (7.04%)
+
+✍️ 19 lines written by AI, 334 lines written by hand (5.38% AI-written)
+
+🔤 49,441 Input Tokens, 24,921 Output Tokens
+
+💵 $0.92 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 15 AI Prompts
+
+Sonnet                   25 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 5.38% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 94.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -148,5 +170,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 21:09:10 UTC
+ Last Updated on 29/09/2026 19:53:18 UTC
 <!--END_SECTION:waka-->
