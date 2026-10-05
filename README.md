@@ -82,6 +82,77 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.16%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌆 Daytime                1039 commits        ██████████████░░░░░░░░░░░   56.71 % 
+🌃 Evening                428 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   556 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Tuesday                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Wednesday                96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Thursday                 723 commits         ██████████░░░░░░░░░░░░░░░   39.47 % 
+Friday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Python                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+HTML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+
+🔥 Editors: 
+Claude Code              4 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+Chrome                   4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
+VS Code                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+
+🐱‍💻 Projects: 
+auto-sort-files          4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.28 % 
+config                   3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+files                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Terminal                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+wireframe                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+
+💻 Operating System: 
+Mac                      10 hrs 46 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 46 mins (53.56%)
+
+✍️ 4,690 lines written by AI, 523 lines written by hand (89.97% AI-written)
+
+🔤 1,614,897 Input Tokens, 755,640 Output Tokens
+
+💵 $64.04 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 111 AI Prompts
+
+Sonnet                   5,881 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.97% of written lines came from AI
+📄 Detailed Prompter — average 522 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 16.61% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -98,5 +169,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 18:35:35 UTC
+ Last Updated on 05/10/2026 21:54:43 UTC
 <!--END_SECTION:waka-->
