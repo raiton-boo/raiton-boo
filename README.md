@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#10](https://github.com/raiton-boo/year-project/issues/10) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-2. 🗣 Commented on [#4](https://github.com/raiton-boo/year-project/issues/4#issuecomment-6009454098) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-3. 🔒 Closed issue [#6](https://github.com/raiton-boo/year-project/issues/6) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-4. 🗣 Commented on [#1](https://github.com/raiton-boo/year-project/issues/1#issuecomment-6009403270) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-5. 🗣 Commented on [#5](https://github.com/raiton-boo/year-project/issues/5#issuecomment-6009881950) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-6. 🔒 Closed issue [#5](https://github.com/raiton-boo/year-project/issues/5) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+1. 🗣 Commented on [#7](https://github.com/raiton-boo/year-project/issues/7#issuecomment-6011271184) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+2. 🗣 Commented on [#10](https://github.com/raiton-boo/year-project/issues/10#issuecomment-6010898697) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+3. 🗣 Commented on [#6](https://github.com/raiton-boo/year-project/issues/6#issuecomment-6010089114) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+4. 🔒 Closed issue [#7](https://github.com/raiton-boo/year-project/issues/7) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+5. 🔒 Closed issue [#10](https://github.com/raiton-boo/year-project/issues/10) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+6. 🗣 Commented on [#4](https://github.com/raiton-boo/year-project/issues/4#issuecomment-6009454098) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
 <!--END_SECTION:activity-->
 
 ---
