@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#6](https://github.com/raiton-boo/neo-hoot/issues/6) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-2. 🎉 Merged PR [#31](https://github.com/raiton-boo/neo-hoot/pull/31) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-3. ℹ️ Assigned PR [#31](https://github.com/raiton-boo/neo-hoot/pull/31) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-4. 💪 Opened PR [#31](https://github.com/raiton-boo/neo-hoot/pull/31) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-5. 🎉 Merged PR [#30](https://github.com/raiton-boo/neo-hoot/pull/30) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
-6. ℹ️ Assigned PR [#30](https://github.com/raiton-boo/neo-hoot/pull/30) in [raiton-boo/neo-hoot](https://github.com/raiton-boo/neo-hoot)
+1. 🔒 Closed issue [#10](https://github.com/raiton-boo/year-project/issues/10) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+2. 🗣 Commented on [#4](https://github.com/raiton-boo/year-project/issues/4#issuecomment-6009454098) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+3. 🔒 Closed issue [#6](https://github.com/raiton-boo/year-project/issues/6) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+4. 🗣 Commented on [#1](https://github.com/raiton-boo/year-project/issues/1#issuecomment-6009403270) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+5. 🗣 Commented on [#5](https://github.com/raiton-boo/year-project/issues/5#issuecomment-6009881950) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+6. 🔒 Closed issue [#5](https://github.com/raiton-boo/year-project/issues/5) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
 <!--END_SECTION:activity-->
 
 ---
