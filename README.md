@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%205%20mins-blue?style=flat)
 
@@ -109,48 +109,47 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 26 mins       ██████████████████░░░░░░░   72.62 % 
-Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Other                    9 hrs 37 mins       ███████████████████░░░░░░   77.93 % 
+Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 50 mins       ███████████████████░░░░░░   75.73 % 
-Claude Code              2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Chrome                   10 hrs 1 min        ████████████████████░░░░░   81.19 % 
+Claude Code              2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-files                    7 hrs 16 mins       ██████████████░░░░░░░░░░░   55.96 % 
-year-project             3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-auto-sort-files          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-wireframe                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-docs                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+files                    7 hrs 40 mins       ████████████████░░░░░░░░░   62.11 % 
+year-project             3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+wireframe                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+docs                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+zettai-osunayo           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      12 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (24.1%)
+⏱ AI Coding Time: 2 hrs 18 mins (18.63%)
 
-✍️ 2,031 lines written by AI, 3 lines written by hand (99.85% AI-written)
+✍️ 1,742 lines written by AI, 3 lines written by hand (99.83% AI-written)
 
-🔤 1,136,296 Input Tokens, 397,344 Output Tokens
+🔤 358,757 Input Tokens, 249,360 Output Tokens
 
-💵 $43.80 Estimated AI Cost This Week
+💵 $18.70 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 31 AI Prompts
+🧠 2 AI Sessions, 23 AI Prompts
 
-Sonnet                   3,460 lines         █████████████████████████   100.00 % 
+Sonnet                   3,022 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📄 Detailed Prompter — average 876 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 14.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📄 Detailed Prompter — average 1,156 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 16.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,5 +168,5 @@ JavaScript               2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 20:30:18 UTC
+ Last Updated on 08/10/2026 20:34:59 UTC
 <!--END_SECTION:waka-->
