@@ -109,47 +109,47 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 37 mins       ███████████████████░░░░░░   77.93 % 
-Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Other                    9 hrs 59 mins       ████████████████████░░░░░   81.63 % 
+HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 1 min        ████████████████████░░░░░   81.19 % 
-Claude Code              2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Chrome                   10 hrs 24 mins      █████████████████████░░░░   84.92 % 
+Claude Code              1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🐱‍💻 Projects: 
-files                    7 hrs 40 mins       ████████████████░░░░░░░░░   62.11 % 
-year-project             3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-wireframe                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-docs                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+files                    7 hrs 34 mins       ███████████████░░░░░░░░░░   61.80 % 
+year-project             3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+wireframe                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+docs                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 zettai-osunayo           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      12 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (18.63%)
+⏱ AI Coding Time: 1 hr 49 mins (14.9%)
 
-✍️ 1,742 lines written by AI, 3 lines written by hand (99.83% AI-written)
+✍️ 1,705 lines written by AI, 3 lines written by hand (99.82% AI-written)
 
-🔤 358,757 Input Tokens, 249,360 Output Tokens
+🔤 332,586 Input Tokens, 234,207 Output Tokens
 
-💵 $18.70 Estimated AI Cost This Week
+💵 $18.36 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 23 AI Prompts
+🧠 1 AI Sessions, 21 AI Prompts
 
-Sonnet                   3,022 lines         █████████████████████████   100.00 % 
+Sonnet                   2,985 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📄 Detailed Prompter — average 1,156 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 16.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 1,248 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 16.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -168,5 +168,5 @@ JavaScript               2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 20:34:59 UTC
+ Last Updated on 09/10/2026 20:03:25 UTC
 <!--END_SECTION:waka-->
