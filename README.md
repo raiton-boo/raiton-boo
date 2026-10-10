@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/raiton-boo/year-project/issues/7#issuecomment-6011271184) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-2. 🗣 Commented on [#10](https://github.com/raiton-boo/year-project/issues/10#issuecomment-6010898697) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-3. 🗣 Commented on [#6](https://github.com/raiton-boo/year-project/issues/6#issuecomment-6010089114) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-4. 🔒 Closed issue [#7](https://github.com/raiton-boo/year-project/issues/7) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-5. 🔒 Closed issue [#10](https://github.com/raiton-boo/year-project/issues/10) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
-6. 🗣 Commented on [#4](https://github.com/raiton-boo/year-project/issues/4#issuecomment-6009454098) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+1. 🎉 Merged PR [#1](https://github.com/raiton-boo/media-seiri/pull/1) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+2. ℹ️ Assigned PR [#1](https://github.com/raiton-boo/media-seiri/pull/1) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+3. 💪 Opened PR [#1](https://github.com/raiton-boo/media-seiri/pull/1) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+4. 🗣 Commented on [#7](https://github.com/raiton-boo/year-project/issues/7#issuecomment-6011271184) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+5. 🗣 Commented on [#10](https://github.com/raiton-boo/year-project/issues/10#issuecomment-6010898697) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
+6. 🗣 Commented on [#6](https://github.com/raiton-boo/year-project/issues/6#issuecomment-6010089114) in [raiton-boo/year-project](https://github.com/raiton-boo/year-project)
 <!--END_SECTION:activity-->
 
 ---
