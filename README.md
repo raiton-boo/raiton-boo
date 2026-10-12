@@ -109,31 +109,31 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    11 hrs 3 mins       ██████████████████████░░░   88.48 % 
-HTML                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    11 hrs 45 mins      ███████████████████████░░   90.74 % 
+HTML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 11 mins      ████████████████████████░   97.47 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Chrome                   12 hrs 38 mins      ████████████████████████░   97.56 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-files                    6 hrs 45 mins       ██████████████░░░░░░░░░░░   54.00 % 
-year-project             3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-media-seiri              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-raiton                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-auto-sort-files          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+files                    6 hrs 45 mins       █████████████░░░░░░░░░░░░   52.10 % 
+year-project             3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+media-seiri              1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+raiton                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+auto-sort-files          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      12 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (2.3%)
+⏱ AI Coding Time: 17 mins (2.22%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -168,5 +168,5 @@ JavaScript               2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 19:25:18 UTC
+ Last Updated on 12/10/2026 22:27:08 UTC
 <!--END_SECTION:waka-->
