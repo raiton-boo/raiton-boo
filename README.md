@@ -85,20 +85,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌆 Daytime                1062 commits        ██████████████░░░░░░░░░░░   56.19 % 
-🌃 Evening                450 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+🌞 Morning                317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+🌆 Daytime                1074 commits        ██████████████░░░░░░░░░░░   56.44 % 
+🌃 Evening                450 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   559 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Wednesday                99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Thursday                 723 commits         ██████████░░░░░░░░░░░░░░░   38.25 % 
-Friday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Monday                   559 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Wednesday                107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Thursday                 728 commits         ██████████░░░░░░░░░░░░░░░   38.26 % 
+Friday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Saturday                 95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
@@ -109,31 +109,31 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    8 hrs 36 mins       ██████████████████████░░░   88.64 % 
-HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    3 hrs 39 mins       ███████████████████░░░░░░   75.29 % 
+HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 23 mins       ████████████████████████░   96.81 % 
-Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Chrome                   4 hrs 32 mins       ███████████████████████░░   93.63 % 
+Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-files                    6 hrs 45 mins       █████████████████░░░░░░░░   69.55 % 
-media-seiri              2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-raiton                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-auto-sort-files          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-zettai-osunayo           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+media-seiri              2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.35 % 
+files                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+raiton                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+dev-rules                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+gh-poi                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 💻 Operating System: 
-Mac                      9 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (2.97%)
+⏱ AI Coding Time: 17 mins (5.93%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -168,5 +168,5 @@ JavaScript               2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 20:34:24 UTC
+ Last Updated on 14/10/2026 19:15:33 UTC
 <!--END_SECTION:waka-->
