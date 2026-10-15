@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
@@ -109,31 +109,31 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    3 hrs 39 mins       ███████████████████░░░░░░   75.29 % 
-HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    3 hrs 15 mins       ██████████████████░░░░░░░   73.07 % 
+HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 32 mins       ███████████████████████░░   93.63 % 
-Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Chrome                   4 hrs 8 mins        ███████████████████████░░   93.06 % 
+Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-media-seiri              2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.35 % 
-files                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-raiton                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-dev-rules                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-gh-poi                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+media-seiri              2 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.34 % 
+raiton                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+dev-rules                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+files                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+gh-poi                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (5.93%)
+⏱ AI Coding Time: 17 mins (6.46%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -168,5 +168,5 @@ JavaScript               2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 19:15:33 UTC
+ Last Updated on 15/10/2026 18:58:22 UTC
 <!--END_SECTION:waka-->
