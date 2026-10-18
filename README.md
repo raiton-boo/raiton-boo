@@ -43,12 +43,12 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#94](https://github.com/raiton-boo/media-seiri/issues/94) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
-2. 🎉 Merged PR [#93](https://github.com/raiton-boo/media-seiri/pull/93) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
-3. 🔒 Closed issue [#92](https://github.com/raiton-boo/media-seiri/issues/92) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
-4. ℹ️ Assigned PR [#93](https://github.com/raiton-boo/media-seiri/pull/93) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
-5. 💪 Opened PR [#93](https://github.com/raiton-boo/media-seiri/pull/93) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
-6. ❗ Opened issue [#92](https://github.com/raiton-boo/media-seiri/issues/92) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+1. ℹ️ Assigned PR [#111](https://github.com/raiton-boo/media-seiri/pull/111) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+2. 💪 Opened PR [#111](https://github.com/raiton-boo/media-seiri/pull/111) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+3. ❗ Opened issue [#110](https://github.com/raiton-boo/media-seiri/issues/110) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+4. 🔒 Closed issue [#108](https://github.com/raiton-boo/media-seiri/issues/108) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+5. 🎉 Merged PR [#109](https://github.com/raiton-boo/media-seiri/pull/109) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
+6. ℹ️ Assigned PR [#109](https://github.com/raiton-boo/media-seiri/pull/109) in [raiton-boo/media-seiri](https://github.com/raiton-boo/media-seiri)
 <!--END_SECTION:activity-->
 
 ---
