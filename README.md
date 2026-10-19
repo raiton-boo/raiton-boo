@@ -76,30 +76,30 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-🌆 Daytime                1290 commits        ███████████░░░░░░░░░░░░░░   45.79 % 
-🌃 Evening                763 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-🌙 Night                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌞 Morning                323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌆 Daytime                1290 commits        ███████████░░░░░░░░░░░░░░   45.70 % 
+🌃 Evening                763 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+🌙 Night                  447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   582 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Tuesday                  141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Wednesday                155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Thursday                 758 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Friday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Saturday                 439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Sunday                   432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Monday                   588 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Tuesday                  141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Wednesday                155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Thursday                 758 commits         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Friday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Sunday                   432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 ```
 
 
@@ -109,19 +109,21 @@ Sunday                   432 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    3 hrs 50 mins       ███████████████████████░░   90.11 % 
-HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Other                    9 hrs 8 mins        ███████████████████░░░░░░   74.28 % 
+HTML                     3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 15 mins       █████████████████████████   100.00 % 
+Chrome                   12 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-media-seiri              1 hr 58 mins        ████████████░░░░░░░░░░░░░   46.24 % 
-dev-rules                1 hr 54 mins        ███████████░░░░░░░░░░░░░░   44.63 % 
-gh-poi                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+media-seiri              9 hrs 59 mins       ████████████████████░░░░░   81.16 % 
+dev-rules                1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+gh-poi                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+year-project             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+117                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,5 +148,5 @@ JavaScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 17:54:43 UTC
+ Last Updated on 19/10/2026 20:28:31 UTC
 <!--END_SECTION:waka-->
