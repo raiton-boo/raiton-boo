@@ -76,7 +76,7 @@
 ## :hourglass: Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
@@ -109,21 +109,21 @@ Sunday                   432 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 1 min         ███████████████████░░░░░░   74.03 % 
-HTML                     3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Other                    8 hrs 7 mins        ██████████████████░░░░░░░   72.64 % 
+HTML                     3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 11 mins      █████████████████████████   100.00 % 
+Chrome                   11 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-media-seiri              9 hrs 50 mins       ████████████████████░░░░░   80.80 % 
-dev-rules                1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-gh-poi                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-year-project             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-117                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+media-seiri              9 hrs 45 mins       ██████████████████████░░░   87.32 % 
+dev-rules                1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+year-project             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+zettai-osunayo           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+raiton-boo               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      12 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,5 +148,5 @@ JavaScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 19:03:37 UTC
+ Last Updated on 21/10/2026 19:11:52 UTC
 <!--END_SECTION:waka-->
