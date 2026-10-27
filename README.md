@@ -109,21 +109,21 @@ Sunday                   432 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████░░░░░░░░░░░░   52.31 % 
-HTML                     4 mins              ████████████░░░░░░░░░░░░░   47.69 % 
+Other                    46 mins             ███████████████████████░░   91.69 % 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-Chrome                   8 mins              █████████████████████████   100.00 % 
+Chrome                   51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-media-seiri              3 mins              ███████████░░░░░░░░░░░░░░   44.20 % 
-dev-rules                2 mins              ████████░░░░░░░░░░░░░░░░░   32.69 % 
-year-project             1 min               █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-zettai-osunayo           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-raiton-boo               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+media-seiri              47 mins             ███████████████████████░░   92.82 % 
+dev-rules                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+year-project             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+zettai-osunayo           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+raiton-boo               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,5 +148,5 @@ JavaScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 20:23:16 UTC
+ Last Updated on 27/10/2026 19:56:45 UTC
 <!--END_SECTION:waka-->
