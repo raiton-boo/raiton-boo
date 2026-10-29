@@ -109,18 +109,16 @@ Sunday                   432 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    46 mins             █████████████████████████   98.98 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other                    55 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   47 mins             █████████████████████████   100.00 % 
+Chrome                   55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-media-seiri              46 mins             █████████████████████████   98.98 % 
-year-project             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+media-seiri              55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,5 +143,5 @@ JavaScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/raiton-boo/raiton-boo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 20:09:51 UTC
+ Last Updated on 29/10/2026 20:08:04 UTC
 <!--END_SECTION:waka-->
